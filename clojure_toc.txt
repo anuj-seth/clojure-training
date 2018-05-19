@@ -1,0 +1,22 @@
+Day 1 - What is functional programming ?
+        How does functional programming shape the way you attack problems.
+        Introduction to the Clojure and the REPL.
+        Getting started with Leiningen
+        Assignment
+        Clojure data types
+             - Vectors
+             - Lists
+             - Sets
+        Assignment
+Day 2 - Clojure Data Types
+             - Maps
+        Hash Maps - the workhorse of the Clojure world
+        Functions as first class objects and higher order programming
+        Introduction to map/reduce and sequence functions
+        Assignment
+Day 3-  Lazy evaluation
+        Infinite Sequences
+        Recursion or Lazy sequences - when to use which
+        Java Interop
+        Namespaces and organizing your code
+        Major assignment bringing all the concepts learned together
